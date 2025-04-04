@@ -85,7 +85,7 @@ author:
   bio              : "Tongji University"
   location         : "China Shanghai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            : "1390462876@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : "bjw1116"
+  wechat           : #"bjw1116"
 
 
 # Reading Files
