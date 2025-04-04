@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 <!-- # Jiawei Bi -->
-I’m now studying as a student. 
-
-I search for solutions that can address real-world problems and make theoretical sense.
+I’m now studying as a student, searching for solutions that can address real-world problems and make theoretical sense.
 
 ## Education
 
