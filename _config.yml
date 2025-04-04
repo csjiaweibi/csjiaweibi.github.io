@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiawei Bi / Site Title"
+title                    : "Jiawei Bi"
 title_separator          : "-"
 name                     : &name "Jiawei Bi"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiawei Bi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Go ahead, make my day."
+  location         : "China-Shanghai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    :  #"http://yourfullgooglescholarurl.com"
+  email            : "1390462876@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/csjiaweibi"
   google_plus      :
   keybase          :
   instagram        :
