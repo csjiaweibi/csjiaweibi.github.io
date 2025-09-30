@@ -8,5 +8,7 @@ tags:
   - category2
 ---
 
-大模型进展神速  自己将主要围绕大模型展开自己的博客研究
+主要围绕大模型最新进展论文和实践记录
+
+
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
