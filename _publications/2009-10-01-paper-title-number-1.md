@@ -12,8 +12,6 @@ paperurl: ''
 这篇论文是关于碳中和碳排放的工作
 
 
-👉 [我的代码开源地址](https://github.com/csjiaweibi/Redis)
-
-
+👉 [我的代码之后开源地址](https://github.com/csjiaweibi/Redis)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
